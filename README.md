@@ -16,7 +16,8 @@ This project is a Power BI report analyzing Finland's electricity usage, with a 
 - Monthly consumption trend
 - Hourly consumption pattern
 
-![Overview Page](images/page1_overview.png)
+![Overview Page](images/Overview_Page-1.png)
+
 
 
 ## 🧠 Key Skills Demonstrated
